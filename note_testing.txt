@@ -1,0 +1,15 @@
+The tests were run on 
+OS Configuration:     Standalone Workstation
+System Type:             x64-based PC
+Processor(s):             1 Processor(s) Installed.
+                          [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~2900 Mhz
+
+###
+....Reloaded modules: fibonacci_task
+.......('Error input num - Negative', -1)
+('Error input num - Not number', '100')
+----------------------------------------------------------------------
+Ran 11 tests in 168.819s
+OK
+###
+
